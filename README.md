@@ -11,6 +11,9 @@ Ecommerce desarrollado en Ruby on Rails - Trabajo práctico para la materia Teor
 ## Corrector:
 - Ferrigno, Leandro
 
+## Pending live Heroku (add)
+Blank
+
 ## Ejecución
 Una vez realizado el clone del repositorio, se deberán instalar los programas necesarios para poder ejecutar el trabajo. Entre ellos, se encuentran:
 
