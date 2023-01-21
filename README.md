@@ -1,43 +1,42 @@
-# Trabajo Práctico - Teoría del Lenguaje
+# Project - Programming Language Theory
 
-Ecommerce desarrollado en Ruby on Rails - Trabajo práctico para la materia Teoría de Lenguaje [75.31 - 95.07] - FIUBA, 2c2021
+[![es](https://img.shields.io/badge/lang-es-orange.svg)](https://github.com/walgab/Legendary_Motorsport/blob/main/README.es.md)
 
-## Integrantes:
+Ecommerce project developed in Ruby on Rails - Project for the Programming Language Theory subject [75.31 - 95.07] - FIUBA, 2Q 2021.
+
+## Project members:
 - Balmaceda, Fernando - [ferbalmaceda23](https://github.com/ferbalmaceda23)
 - Craviotto, Mateo - [MateoCraviotto](https://github.com/MateoCraviotto)
 - Diem, Walter Gabriel - [walgab](https://github.com/walgab)
 - Lazzaro, Melina - [Melzr](https://github.com/Melzr)
 
-## Corrector:
+## Evaluator:
 - Ferrigno, Leandro
 
-## Pending live Heroku (add)
-Blank
+## Execution
+Once the repository has been cloned, the necessary programs must be installed to run the work. Among them are:
 
-## Ejecución
-Una vez realizado el clone del repositorio, se deberán instalar los programas necesarios para poder ejecutar el trabajo. Entre ellos, se encuentran:
+- Ruby (version 3.0.0)
+- Ruby on Rails (version 6.1.4.1)
+- MySQL and MySQLd (mysql2 version 0.5) 
 
-- Ruby (versión 3.0.0)
-- Rails (versión 6.1.4.1)
-- MySQL y MySQLd (mysql2 versión 0.5) 
+In addition, the NodeJS dependencies required for Ruby on Rails to work must be installed with the command ```yarn install```.
+<br><br>
 
-Además, se deben instalar las dependencias de node.js, requeridas para que funcione Rails, con el comando ```yarn install```.
-
-### Instalación de Gemas
-Se deben instalar las Gemas utilizadas con el comando ```bundle install```.
-Para más detalles sobre las gemas y sus versiones, ver el [Gemfile](https://github.com/MateoCraviotto/TP-Ruby-TDL/blob/main/ecommerce/Gemfile).
+### Gem Installation
+The used gems must be installed with the command ```bundle install```.
+For more details on the gems and their versions, see the [gemfile](https://github.com/MateoCraviotto/TP-Ruby-TDL/blob/main/ecommerce/Gemfile).
+<br><br>
 
 ### Configuración de la base de datos
 
-Primero, se debe ejecutar el setup de la base de datos, que carga los datos del archivo [seeds.rb] al inicio, para que aparezca una cuenta administradora con autos precargados al iniciar el servidor. Esto se hace con el comando ```rails db:setup```.
+First, the database setup must be run, which loads the data from the ```seeds.rb``` file at the beginning, so that an administrator account with preloaded cars appears when starting the server. This is done with the command  ```rails db:setup```.
 
-Luego, se deberán ejecutar las migraciones de la base de datos, lo que se hace con el comando ```rails db:migrate```
+Then, the database migrations must be executed, which is done with the command ```rails db:migrate```.
+<br><br>
 
+### Server Execution
 
-### Ejecución del servidor
+Finally, to run the server that shows the website locally, the command ```rails s``` must be executed.
 
-Finalmente, para ejecutar el servidor que muestra el sitio web en local, se debe ejecutar el comando ```rails s```
-
-Esto iniciará el servidor para que el sitio web se vea en ```http://localhost:3000/```
-
-En un futuro, se pondrá el sitio web construido a la vista mediante Heroku.
+This will start the server so that the website can be seen at ```http://localhost:3000/```.
