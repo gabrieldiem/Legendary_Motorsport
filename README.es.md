@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./docs/img/lm_banner.png" alt="Legendary Motorsport Banner" width="500">
+
+</div>
+
 # Trabajo Práctico - Teoría del Lenguaje
 
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/walgab/Legendary_Motorsport)

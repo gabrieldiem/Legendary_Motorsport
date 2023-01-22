@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./docs/img/lm_banner.png" alt="Legendary Motorsport Banner" width="500">
+
+</div>
+
 # Project - Programming Language Theory
 
 [![es](https://img.shields.io/badge/lang-es-orange.svg)](https://github.com/walgab/Legendary_Motorsport/blob/main/README.es.md)
