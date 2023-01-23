@@ -10,6 +10,8 @@
 
 Ecommerce project developed in Ruby on Rails - Project for the Programming Language Theory subject [75.31 - 95.07] - FIUBA, 2Q 2021.
 
+You can watch the video presentation that goes along with this project [in this YT video](https://youtu.be/-0cxWvMj58c), it's in Spanish as that is the language the course is teached on.
+
 ## Project members:
 - Balmaceda, Fernando - [ferbalmaceda23](https://github.com/ferbalmaceda23)
 - Craviotto, Mateo - [MateoCraviotto](https://github.com/MateoCraviotto)

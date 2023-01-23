@@ -10,6 +10,8 @@
 
 Proyecto de Ecommerce desarrollado en Ruby on Rails - Trabajo práctico para la materia Teoría de Lenguaje [75.31 - 95.07] - FIUBA, 2C 2021.
 
+Se puede ver la presentación en video que acompaña a este proyecto [en este enlace de YT](https://youtu.be/-0cxWvMj58c).
+
 ## Integrantes:
 - Balmaceda, Fernando - [ferbalmaceda23](https://github.com/ferbalmaceda23)
 - Craviotto, Mateo - [MateoCraviotto](https://github.com/MateoCraviotto)
