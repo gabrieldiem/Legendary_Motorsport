@@ -46,3 +46,17 @@ Then, the database migrations must be executed, which is done with the command `
 Finally, to run the server that shows the website locally, the command ```rails s``` must be executed.
 
 This will start the server so that the website can be seen at ```http://localhost:3000/```.
+
+## Images
+
+![Image 1](./docs/img/img1.jpg)
+
+![Image 2](./docs/img/img2.jpg)
+
+![Image 3](./docs/img/img3.jpg)
+
+![Image 4](./docs/img/img4.jpg)
+
+![Image 5](./docs/img/img5.jpg)
+
+![Image 6](./docs/img/img6.jpg)

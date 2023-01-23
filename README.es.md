@@ -46,3 +46,17 @@ Luego, se deberán ejecutar las migraciones de la base de datos, lo que se hace 
 Finalmente, para ejecutar el servidor que muestra el sitio web en local, se debe ejecutar el comando ```rails s```.
 
 Esto iniciará el servidor para que el sitio web se vea en ```http://localhost:3000/```.
+
+## Imágenes
+
+![Imagen 1](./docs/img/img1.jpg)
+
+![Imagen 2](./docs/img/img2.jpg)
+
+![Imagen 3](./docs/img/img3.jpg)
+
+![Imagen 4](./docs/img/img4.jpg)
+
+![Imagen 5](./docs/img/img5.jpg)
+
+![Imagen 6](./docs/img/img6.jpg)
