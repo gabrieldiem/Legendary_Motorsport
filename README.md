@@ -8,7 +8,7 @@
 
 [![es](https://img.shields.io/badge/leer_en-espa%C3%B1ol_%F0%9F%87%AA%F0%9F%87%B8-darkgreen?style=flat)](https://github.com/walgab/Legendary_Motorsport/blob/main/README.es.md)
 
-Ecommerce project developed in Ruby on Rails - Project for the Programming Language Theory subject [75.31 - 95.07] Ferrigno's course - FIUBA, 2Q 2021.
+Ecommerce project developed in Ruby on Rails - Project for the _Programming Language Theory_ subject [75.31 - 95.07] Ferrigno's course - FIUBA, 2Q 2021.
 
 You can watch the video presentation that goes along with this project [in this YT video](https://youtu.be/-0cxWvMj58c), it's in Spanish as that is the language the course is teached on.
 
