@@ -6,16 +6,16 @@
 
 # Trabajo Práctico - Teoría del Lenguaje
 
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/walgab/Legendary_Motorsport#readme)
+[![en](https://img.shields.io/badge/read_in-english_%F0%9F%87%AC%F0%9F%87%A7-darkblue?style=flat)](https://github.com/walgab/Legendary_Motorsport#readme)
 
-Proyecto de Ecommerce desarrollado en Ruby on Rails - Trabajo práctico para la materia Teoría de Lenguaje [75.31 - 95.07] - FIUBA, 2C 2021.
+Proyecto de Ecommerce desarrollado en Ruby on Rails - Trabajo práctico para la materia Teoría de Lenguaje [75.31 - 95.07] curso Ferrigno - FIUBA, 2C 2021.
 
 Se puede ver la presentación en video que acompaña a este proyecto [en este enlace de YT](https://youtu.be/-0cxWvMj58c).
 
 ## Integrantes:
 - Balmaceda, Fernando - [ferbalmaceda23](https://github.com/ferbalmaceda23)
 - Craviotto, Mateo - [MateoCraviotto](https://github.com/MateoCraviotto)
-- Diem, Walter Gabriel - [walgab](https://github.com/walgab)
+- Diem, Walter Gabriel - [gabrieldiem](https://github.com/gabrieldiem)
 - Lazzaro, Melina - [Melzr](https://github.com/Melzr)
 
 ## Corrector:
