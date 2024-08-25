@@ -62,3 +62,11 @@ Esto iniciará el servidor para que el sitio web se vea en ```http://localhost:3
 ![Imagen 5](./docs/img/img5.jpg)
 
 ![Imagen 6](./docs/img/img6.jpg)
+
+## Assets de terceros
+
+Este proyecto incluye imágenes y contenido visual derivados de Grand Theft Auto V.
+
+### Atribución
+
+Algunas imágenes y contenido visual en esta página web están derivados de Grand Theft Auto V y son propiedad con derechos de autor de Rockstar Games, una subsidiaria de Take-Two Interactive Software, Inc. Todos los derechos sobre estos activos están completamente reservados por Rockstar Games. Este proyecto no está afiliado, respaldado ni asociado de ninguna manera con Rockstar Games. El uso de estas imágenes tiene como único propósito fines no comerciales.
