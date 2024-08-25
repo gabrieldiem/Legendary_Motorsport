@@ -62,3 +62,11 @@ This will start the server so that the website can be seen at ```http://localhos
 ![Image 5](./docs/img/img5.jpg)
 
 ![Image 6](./docs/img/img6.jpg)
+
+## Third-Party Assets
+
+This project includes images and visual content derived from Grand Theft Auto V. 
+
+### Attribution
+
+Certain images and visual content on this website are derived from Grand Theft Auto V and are the copyrighted property of Rockstar Games, a subsidiary of Take-Two Interactive Software, Inc. All rights to these assets are fully reserved by Rockstar Games. This project is not affiliated with, endorsed by, or associated with Rockstar Games in any way. The use of these images is intended solely for non-commercial purposes.
